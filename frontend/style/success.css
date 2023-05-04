@@ -1,0 +1,115 @@
+/* navbar */
+
+.navbar-brand{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+
+    color: #000000;
+}
+
+/* Tutup navbar */
+
+.success{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.info{
+    margin-top: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+
+    color: #000000;
+}
+
+
+.buttn{
+    margin-top: 50px;
+}
+
+.btn-success{
+    width: 230px;
+    height: 44px;
+    background: #58ACDC;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+
+/* Footer */
+
+.footer{
+    margin-top: 80px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+}
+
+.ring{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.footer-link{
+    margin-top: 60px;
+}
+
+.footer-link a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.footer-address{
+    margin-top: 60px;
+}
+
+.footer-address p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.copyright{
+    height: 50px;
+    background: #D9D9D9;
+}
+
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+
+/* Tutup Footer */
+

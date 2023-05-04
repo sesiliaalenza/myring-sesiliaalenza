@@ -1,0 +1,279 @@
+/* navbar */
+
+.navbar-brand{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+
+    color: #000000;
+}
+
+/* Tutup navbar */
+
+/* booking */
+
+.product-img{
+    margin-top: 100px;
+}
+
+.product-detail{
+    margin-left: 100px;
+}
+
+.product-name{
+    margin-top: 100px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    color: #000000;
+
+}
+
+.product-price{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #DC0000;
+
+}
+
+.product-price span{
+    width: 137px;
+    height: 50px;
+    padding-top: 6px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 6px;
+
+    background: #DC0000;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+.btn-submit{
+    margin-top: 12px;
+    width: 616px;
+    height: 50px;
+
+    background: #2A7632;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.product-rinci{
+    margin-top: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.product-rinci i{
+    font-size: 22px;
+}
+
+.panduan{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.tag h5{
+    padding-top: 12px;
+    padding-left: 45px;
+    width: 310px;
+    height: 50px;
+    background: #58ACDC;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.men{
+    margin-top: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    color: #000000;
+}
+
+.jenis h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #000000;
+}
+
+.jenis p{
+    width: 250px;
+    height: 45px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+    padding-top: 9px;
+    padding-left: 35px;
+
+}
+
+.ukuran h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #000000;
+}
+
+.ukuran p{
+    width: 100px;
+    height: 45px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+    padding-left: 40px;
+    padding-top: 10px;
+
+}
+.diamond h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #000000;
+}
+
+.diamond p{
+    width: 100px;
+    height: 45px;
+    background: #F5F5F5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+
+.wanita{
+    margin-right: 310px !important;
+    margin-top: -360px;
+}
+
+.btn-warning{
+    width: 500px;
+    height: 41px;
+    background: #F3C244;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.btn-secondary{
+    width: 500px;
+    height: 41px;
+    background: #F5F5F5;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #5A5A5A;
+    outline: none;
+
+}
+/* tutup booking */
+
+/* Footer */
+
+.footer{
+    margin-top: 80px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+}
+
+.ring{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.footer-link{
+    margin-top: 60px;
+}
+
+.footer-link a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.footer-address{
+    margin-top: 60px;
+}
+
+.footer-address p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.copyright{
+    height: 50px;
+    background: #D9D9D9;
+}
+
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+
+/* Tutup Footer */

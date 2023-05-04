@@ -1,0 +1,318 @@
+/* navbar */
+
+.container-fluid{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.nav-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+
+    color: #000000;
+}
+
+.navbar-brand{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+
+    color: #000000;
+}
+
+/* Tutup navbar */
+
+/* hero section */
+
+.hero-section{
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+
+.kiri{
+    margin-top: 40px;
+}
+
+.kiri h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    color: #000000;
+}
+
+.kiri h3{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+}
+
+.kiri p{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    color: #000000;
+}
+
+.kiri a{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
+
+/* Tutup hero section */
+
+/* categories */
+
+.kategori{
+    margin-top: 120px;
+    margin-bottom: 65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+
+}
+
+.left1{
+    margin-left: 195px;
+}
+
+
+.product-category h5{
+    margin-top: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+
+    color: #000000;
+}
+
+.btn-warning{
+    margin-top: 15px;
+    width: 120px;
+    height: 45px;
+    background: #DDAD33;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    transition: all 0.2s ease;
+}
+
+.btn-warning:hover {
+    font-weight: 600;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Tutup categories */
+
+/* best product */
+.best h5{
+    margin-top: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    color: #000000;
+
+}
+
+.bestseler{
+    margin-top: 60px;
+    margin-left: 160px;
+}
+
+.best-product1{
+    width: 240px;
+    height: 300px;
+    background: #F5F5F5;
+    transition: all 0.2s ease;
+}
+
+.best-product1:hover{
+    transform: scale(1.1);
+}
+
+.best-product{
+    margin-left: -40px;
+    width: 240px;
+    height: 300px;
+    background: #F5F5F5;
+    transition: all 0.2s ease;
+}
+
+.best-product:hover{
+    transform: scale(1.1);
+}
+
+.bestproduct3{
+    margin-left: -80px;
+}
+.bestproduct4{
+    margin-left: -120px;
+}
+
+.best-name{
+    margin-top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.rating{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.fa-star{
+    font-family: font awesome;
+    color: #DDAD33;
+}
+
+.bestprice{
+    margin-top: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #DC0000;
+
+}
+/* tutup best product */
+
+/* New Product */
+
+.new h5{
+    margin-top: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: #000000;
+}
+
+.left-new {
+    margin-left: 230px;
+}
+
+
+.new-name a{
+    margin-top: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    color: #000000;
+}
+
+.new-price a{
+    margin-top: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    color: #DC0000;
+
+}
+
+.img-thumb img{
+    transition: all 0.2s ease-in-out;
+}
+
+.img-thumb img:hover{
+    transform: scale(1.1);
+}
+
+.right{
+    margin-left: -130px;
+}
+
+.np{
+    margin-top: 50px;
+}
+
+/* tutup New Product */
+
+/* Footer */
+
+.footer{
+    margin-top: 80px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+}
+
+.ring{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.footer-link{
+    margin-top: 60px;
+}
+
+.footer-link a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.footer-address{
+    margin-top: 60px;
+}
+
+.footer-address p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.copyright{
+    height: 50px;
+    background: #D9D9D9;
+}
+
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+
+
+/* Tutup Footer */
